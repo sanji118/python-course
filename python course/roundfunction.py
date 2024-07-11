@@ -1,0 +1,8 @@
+print(round(7))
+print(round(7.65))
+print(type(round(7.61)))
+print(round(2.6666666, 2))
+print(type(round(2.55, 0)))
+print(round(-8/3))
+print(round(-8/3, 2))
+print(round(8/3, -2))
